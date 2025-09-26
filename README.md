@@ -31,59 +31,53 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 ## Tecnologias Utilizadas
 
  ### Tecnologias Específicas/Apoio
- > Liste aqui todas as tecnologias utilizadas para concluir a entrega
-  
+	Power BI – Construção de dashboards e visualizações.
+	Python – Tratamento dos dados.
+	GitHub – Documentação do projeto.
+	Jira (software) – Gestão do projeto.
+	Slack – Comunicação com o cliente.
+	Office – Elaboração dos relatórios.
  ### Tecnologias da Informação
- > Liste aqui todas as tecnologias utilizadas para concluir a entrega
+	Dados do ComexStat – portal do MDIC (Ministério do Desenvolvimento, Indústria e Comércio).
+	•	Dados anuais de exportações e importações de 2023 a 2025, organizados por estados.
+	•	Dados anuais de exportações e importações de municípios de São Paulo (2023 a 2025).
 
 # Backlog do produto
 
 ## Sprint 1
-- [ ] Defina o propósito do template;
-- [ ] Identifique os elementos principais;
-- [ ] Esboce o layout;
-- [ ] Escolha cores e fontes;
-- [ ] Desenvolva o design;
+- [ ] preciso confiar nos dados - fontes oficiais documentadas
+- [ ] Base de dados limpa - dados tratados de 2023 a 2025
+- [ ] Ver panorama nacional - ranking estadual e evolução temporal
+- [ ] Validar dados completos - relatório de qualidade dos dados
+- [ ] Modais utilizados - métrica de custo e rentabilidade
 - [ ] Teste e revise;
 - [ ] Documente instruções de uso;
-- [ ] Criação do vídeo;
-- [ ] Finalize e aprovação.
+- [ ] Finalização e aprovação.
 
 ## Sprint 2
-- [ ] Documento passo a passo;
-- [ ] Vídeo passo a passo;
-- [ ] Treinamento com os professores;
+- [ ] Analisar municípios de SP individualmente - Ver a evolução de cada município paulista.
+- [ ] Analisar municípios de SP individualmente - Ver a evolução de cada município paulista.
+- [ ] Identificar padrões sazonais - Ver como as exportações variam ao longo do ano.
+- [ ] Filtrar por períodos específicos - Analisar trimestres ou anos
 - [ ] Treinamento com os alunos;
 - [ ] Monitoramento e ajustes.
+- [ ]  Teste e revise;
+- [ ]  Finalização e aprovação.
       
 ## Sprint 3
-- [ ] Defina o propósito do template;
-- [ ] Identifique os elementos principais;
-- [ ] Esboce o layout;
-- [ ] Escolha cores e fontes;
-- [ ] Desenvolva o design;
+- [ ] Buscar por tipos de carga - Analisar produtos específicos
+- [ ] Entender a diversificação comercial - Ver se municípios dependem de poucos produtos
+- [ ] Acessar de qualquer dispositivo - Painel responsivo
+- [ ] Ter insights acionáveis - Análise que responda às questões do negócio Relatório
 - [ ] Teste e revise;
-- [ ] Documente instruções de uso;
-- [ ] Criação do vídeo;
-- [ ] Finalize e aprovação.
+- [ ] Finalização e aprovação.
       
-## Sprint 4
-- [ ] Defina o propósito do template;
-- [ ] Identifique os elementos principais;
-- [ ] Esboce o layout;
-- [ ] Escolha cores e fontes;
-- [ ] Desenvolva o design;
-- [ ] Teste e revise;
-- [ ] Documente instruções de uso;
-- [ ] Criação do vídeo;
-- [ ] Finalize e aprovação.
 
 # Registro das Sprints
 
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
-|01 | dd/mm/aaaa | a fazer| [MVP](https://) | 
-|02|  dd/mm/aaaa| a fazer|[MVP](https://) | 
-|03| dd/mm/aaaa | a fazer|[MVP](https://) | 
-|04| dd/mm/aaaa |a fazer |[MVP](https://)  | 
-|Feira de Soluções|dd/mm/aaaa |a fazer |[MVP](https://) | 
+|01 | 29/09/2025 | Em andamento| [MVP](https://) | 
+|02|  20/10/2025| a fazer|[MVP](https://) | 
+|03| 17/11/2025 | a fazer|[MVP](https://) | 
+|Feira de Soluções|06/12/2025 |a fazer |[MVP](https://) | 
