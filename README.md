@@ -65,7 +65,7 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
       
 ## Sprint 3
 - [ ] Buscar por tipos de carga - Analisar produtos específicos por código SH4 Campo de busca e filtros por tipo de mercadoria
-- [ ]Entender a diversificação comercial - Ver se municípios dependem de poucos produtos Visualização da pauta comercial de cada município
+- [ ] Entender a diversificação comercial - Ver se municípios dependem de poucos produtos Visualização da pauta comercial de cada município
 - [ ] Acessar de qualquer dispositivo - Painel responsivo e de fácil uso	Painel otimizado para web com navegação intuitiva
 - [ ] Ter insights acionáveis - Análise que responda às questões do negócio	Relatório completo com conclusões e recomendações
 - [ ] Teste e revise;
