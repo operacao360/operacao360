@@ -44,7 +44,7 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 # Backlog do produto
 
 ## Sprint 1
-- [ ]preciso confiar nos dados - que as fontes oficias estejam documentadas e validadas, documento com links oficiais e método de acesso garantido.
+- [ ] preciso confiar nos dados - que as fontes oficias estejam documentadas e validadas, documento com links oficiais e método de acesso garantido.
 - [ ] Quero uma base limpa e pronta - Dados tratados e normalizados de 2023 a 2025	Script Python executável que gera os arquivos finais para análise
 - [ ] Ver o panorama nacional - Comparar o desempenho comercial entre estados brasileiros	Painel Power BI com ranking estadual e evolução temporal
 - [ ] Saber se os dados estão completos - Validar que não há lacunas nas séries históricas	Relatório de qualidade dos dados com indicadores de completude
