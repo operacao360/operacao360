@@ -44,7 +44,7 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 # Backlog do produto
 
 ## Sprint 1
-- [ ] preciso confiar nos dados - fontes oficiais documentadas
+- [1 ] preciso confiar nos dados - fontes oficiais documentadas
 - [ ] Base de dados limpa - dados tratados de 2023 a 2025
 - [ ] Ver panorama nacional - ranking estadual e evolução temporal
 - [ ] Validar dados completos - relatório de qualidade dos dados
