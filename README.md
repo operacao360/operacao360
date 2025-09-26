@@ -11,8 +11,7 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 * [Backlog do produto](#Backlog-do-produto)
 
 # Projeto (API) 
-Descrição da demanda realizada pelo parceiro acadêmico.
-
+Desenvolver um dashboard interativo para compartilhar e analisar os resultados de exportação e importação do Brasil, comparando estados e municípios, com foco especial no estado de São Paulo.
 # Equipe
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
 | :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
