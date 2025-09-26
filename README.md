@@ -44,30 +44,30 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 # Backlog do produto
 
 ## Sprint 1
-- [ ] preciso confiar nos dados - fontes oficiais documentadas
-- [ ] Base de dados limpa - dados tratados de 2023 a 2025
-- [ ] Ver panorama nacional - ranking estadual e evolução temporal
-- [ ] Validar dados completos - relatório de qualidade dos dados
+- [ ]preciso confiar nos dados - que as fontes oficias estejam documentadas e validadas, documento com links oficiais e método de acesso garantido.
+- [ ] Quero uma base limpa e pronta - Dados tratados e normalizados de 2023 a 2025	Script Python executável que gera os arquivos finais para análise
+- [ ] Ver o panorama nacional - Comparar o desempenho comercial entre estados brasileiros	Painel Power BI com ranking estadual e evolução temporal
+- [ ] Saber se os dados estão completos - Validar que não há lacunas nas séries históricas	Relatório de qualidade dos dados com indicadores de completude
 - [ ] Modais utilizados - métrica de custo e rentabilidade
 - [ ] Teste e revise;
 - [ ] Documente instruções de uso;
 - [ ] Finalização e aprovação.
 
 ## Sprint 2
-- [ ] Analisar municípios de SP individualmente - Ver a evolução de cada município paulista.
-- [ ] Analisar municípios de SP individualmente - Ver a evolução de cada município paulista.
+- [ ] Analisar municípios de SP individualmente - Ver a evolução de cada município paulista	Aba específica no painel com filtro por município
+- [ ] Comparar municípios vizinhos - Entender diferenças regionais dentro de SP	Funcionalidade de seleção múltipla para comparação side-by-side
 - [ ] Identificar padrões sazonais - Ver como as exportações variam ao longo do ano.
-- [ ] Filtrar por períodos específicos - Analisar trimestres ou anos
-- [ ] Treinamento com os alunos;
+- [ ] Identificar padrões sazonais - Ver como as exportações variam ao longo do ano	Gráficos de sazonalidade incorporados ao painel
+- [ ] Filtrar por períodos específicos - Analisar trimestres ou anos específicos Filtros temporais mais granulares no painel
 - [ ] Monitoramento e ajustes.
 - [ ]  Teste e revise;
 - [ ]  Finalização e aprovação.
       
 ## Sprint 3
-- [ ] Buscar por tipos de carga - Analisar produtos específicos
-- [ ] Entender a diversificação comercial - Ver se municípios dependem de poucos produtos
-- [ ] Acessar de qualquer dispositivo - Painel responsivo
-- [ ] Ter insights acionáveis - Análise que responda às questões do negócio Relatório
+- [ ] Buscar por tipos de carga - Analisar produtos específicos por código SH4 Campo de busca e filtros por tipo de mercadoria
+- [ ]Entender a diversificação comercial - Ver se municípios dependem de poucos produtos Visualização da pauta comercial de cada município
+- [ ] Acessar de qualquer dispositivo - Painel responsivo e de fácil uso	Painel otimizado para web com navegação intuitiva
+- [ ] Ter insights acionáveis - Análise que responda às questões do negócio	Relatório completo com conclusões e recomendações
 - [ ] Teste e revise;
 - [ ] Finalização e aprovação.
       
